@@ -112,5 +112,5 @@ export PATH=`pwd`/flutter/bin:$PATH
 6. 路由机制封装
 
 ## 联系方式
-微信：heruijun2258，注明来意。
+微信：talejeffery@gmail.com，注明来意。
 
